@@ -21,7 +21,7 @@
     "@temporalio/client": "1.15.0",
     "chokidar": "^5.0.0",
     "dotenv": "^17.3.1",
-    "smol-toml": "^1.6.1"
+    "smol-toml": "^1.7.1"
   },
   "keywords": [
     "security",
